@@ -54,3 +54,14 @@ For more information about Flutter and its documentation, please visit:
 - [Pub.dev](https://pub.dev) for package references and documentation.
 
 Feel free to explore, contribute, and provide feedback to make this ChatAI Mobile App even more exciting and useful! Stay tuned for updates as we continue to enhance the app with new features and functionalities. Your feedback and contributions are greatly appreciated.
+
+<hr>
+<hr>
+<div align="center">
+            <a href="https://www.buymeacoffee.com/harikris001" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+
